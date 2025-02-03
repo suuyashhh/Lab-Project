@@ -343,7 +343,8 @@
                 <div class="tests-section">
                     <div class="add-test-section">
                         <div class="test-inputs" style="justify-content:end">
-                            <button class="add-btn">Save</button>                            
+                            <a href="FormIndex.aspx" class="add-btn">Save</a>
+                            <%--<button class="add-btn">Save</button>   --%>                         
                             <button class="add-btn" style="background:red!important">Cancle</button>
                         </div>
                     </div>
